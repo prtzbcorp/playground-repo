@@ -1,3 +1,4 @@
 # CODEOWNERS
 
 somedir/ @prtzb
+otherdir/ @prtzbcorp/admins
